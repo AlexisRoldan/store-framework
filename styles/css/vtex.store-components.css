@@ -20,7 +20,11 @@
 }
 
 .infoCardContainer--vintage {
-  background-color: #EDCFD1
+  background-color: #edcfd1
+}
+
+.infoCardCallActionContainer--vintage :global(.vtex-button):hover {
+  background-color: white;
 }
 
 .infoCardContainer--metal {
